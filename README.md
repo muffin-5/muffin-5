@@ -37,17 +37,24 @@ Full Stack Developer • Backend Engineering • Graph ML Research
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django)
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite)
 
 **ML / Data**
 
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat)
+
+**Tools & Deployment**
+
+![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel)
