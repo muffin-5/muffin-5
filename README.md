@@ -10,7 +10,7 @@ Full Stack Developer • Backend Engineering • Graph ML Research
 
 - 🎓 Computer Science student at IIT (BHU) Varanasi
 - 💻 Building **full-stack web applications**
-- 🔬 Researching **Influence Maximization & Graph Algorithms**
+- 🔬 Researching **Influence Maximization, Social Networks & Graph Algorithms**
 - 🚀 Interested in **scalable backend systems and distributed architectures**
 
 ---
