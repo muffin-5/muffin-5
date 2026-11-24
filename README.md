@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Agarwal</h1>
 
 <p align="center">
-Full Stack Developer • Backend Engineering • Graph ML Research
+Full Stack Developer • AI Engineering • Graph ML Researcher
 </p>
 
 ---
@@ -9,9 +9,9 @@ Full Stack Developer • Backend Engineering • Graph ML Research
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science student at IIT (BHU) Varanasi
-- 💻 Building **full-stack web applications**
+- 💻 Building **full-stack web & AI applications**
 - 🔬 Researching **Influence Maximization, Social Networks & Graph Algorithms**
-- 🚀 Interested in **scalable backend systems and distributed architectures**
+- 🚀 Interested in **scalable AI systems and distributed architectures**
 
 ---
 
